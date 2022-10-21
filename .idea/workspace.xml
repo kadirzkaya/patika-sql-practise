@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8941603a-04ed-457c-b253-268f90186299" name="Changes" comment="Ödev 8">
-      <change afterPath="$PROJECT_DIR$/Odev9.sql" afterDir="false" />
+    <list default="true" id="8941603a-04ed-457c-b253-268f90186299" name="Changes" comment="Ödev 9">
+      <change afterPath="$PROJECT_DIR$/Odev10.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666096565651</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Ödev 9">
+      <created>1666184293250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666184293250</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +124,7 @@
     <MESSAGE value="Ödev 6" />
     <MESSAGE value="Ödev 7" />
     <MESSAGE value="Ödev 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ödev 8" />
+    <MESSAGE value="Ödev 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ödev 9" />
   </component>
 </project>

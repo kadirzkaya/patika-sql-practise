@@ -1,0 +1,11 @@
+1
+SELECT CITY.city, COUNTRY.country FROM CITY LEFT JOIN
+COUNTRY ON CITY.country_id=COUNTRY.country_id;
+
+2
+SELECT PAYMENT.payment_id, CUSTOMER.first_name, CUSTOMER.last_name FROM CUSTOMER RIGHT JOIN
+PAYMENT ON CUSTOMER.customer_id=PAYMENT.customer_id;
+
+3
+SELECT RENTAL.rental_id, CUSTOMER.first_name, CUSTOMER.last_name FROM CUSTOMER FULL JOIN
+RENTAL ON CUSTOMER.customer_id=RENTAL.customer_id;
